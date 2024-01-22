@@ -1,1 +1,1 @@
-IDENTIFYING OUTLIER IN A GIVEN SET OF DATA
+Gathering data and investigation using Excel, Preparing and cleaning data for analysis Transforming data with excel with involves sorting and filtering, formatting and adjusting, conditional formatting and performing various data calculations. Proficiency in visualizing data in pivot tables in Excel, Using statistical analysis formulars to find the average, mean value, max value of a data,Idemtifying outliers in a given data set
